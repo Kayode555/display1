@@ -1,0 +1,232 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+body{ 
+    background-color: aliceblue;
+} 
+section{ 
+    padding: 30px; 
+} 
+.red{ 
+    background-color: white; 
+    box-shadow: 2px 2px 22px rgba(0, 0, 0,0.208); 
+    padding: 10px; 
+    width: 340px;   
+    display: inline-block; 
+    border-radius: 10px; 
+    margin-right: 40px; 
+
+} 
+.red img{ 
+    margin-left: 30px;
+}
+.red small{ 
+    display: block; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    color: orange;  
+    font-size: 17px; 
+    font-weight: bold;
+} 
+.red h3{ 
+    margin-bottom: 15px; 
+    font-size: 30px;
+} 
+.red p{ 
+    margin-top: 15px; 
+    font-size: 20px;
+    text-align: justify;
+} 
+.red button{ 
+    background-color:  #0012ff;  
+    padding: 10px 140px;
+    color: white; 
+    border: none; 
+    border-radius: 10px;  
+    
+} 
+.yellow{ 
+    background-color: white; 
+    box-shadow: 2px 2px 22px rgba(0, 0, 0,0.208); 
+    padding: 10px; 
+    width: 340px; 
+    display: inline-block; 
+    border-radius: 10px;
+    box-shadow:10px ; 
+    margin-right: 40px;
+
+}  
+.yellow img{ 
+    margin-left: 30px; 
+
+} 
+.yellow small{ 
+    display: block; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    color: orange;  
+    font-size: 17px; 
+    font-weight: bold;
+} 
+.yellow p{ 
+         margin-top: 15px; 
+        font-size: 20px;
+        text-align: justify; 
+}  
+.yellow button{ 
+     background-color:  #0012ff;  
+    padding: 10px 140px;
+    color: white; 
+    border: none; 
+    border-radius: 10px; 
+    box-shadow:10px ; 
+    margin-right: 40px;
+} 
+.green{ 
+    background-color: white; 
+    box-shadow: 2px 2px 22px rgba(0, 0, 0,0.208); 
+    padding: 10px; 
+    width: 340px; 
+    display: inline-block; 
+    border-radius: 10px;
+    box-shadow:10px ; 
+    margin-right: 40px;
+
+}  
+.green img{ 
+    margin-left: 30px; 
+
+} 
+.green small{ 
+    display: block; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    color: orange;  
+    font-size: 17px; 
+    font-weight: bold;
+} 
+.green p{ 
+         margin-top: 15px; 
+        font-size: 20px;
+        text-align: justify; 
+}  
+.green button{ 
+     background-color:  #0012ff;  
+    padding: 10px 140px;
+    color: white; 
+    border: none; 
+    border-radius: 10px; 
+    box-shadow:10px ; 
+    margin-right: 40px;
+}  
+.blue{ 
+    background-color: white; 
+    box-shadow: 2px 2px 22px rgba(0, 0, 0,0.208); 
+    padding: 10px; 
+    width: 340px; 
+    display: inline-block; 
+    border-radius: 10px;
+    box-shadow:10px ; 
+    margin-right: 40px;
+
+}  
+.blue img{ 
+    margin-left: 30px; 
+
+} 
+.blue small{ 
+    display: block; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    color: orange;  
+    font-size: 17px; 
+    font-weight: bold;
+} 
+.blue button{ 
+    background-color:  #0012ff;  
+   padding: 10px 140px;
+   color: white; 
+   border: none; 
+   border-radius: 10px; 
+   box-shadow:10px ; 
+   margin-right: 40px;
+}
+.black{ 
+    background-color: white; 
+    box-shadow: 2px 2px 22px rgba(0, 0, 0,0.208); 
+    padding: 10px; 
+    width: 340px; 
+    display: inline-block; 
+    border-radius: 10px; 
+    margin-right: 40px; 
+
+} 
+.black img{ 
+    margin-left: 30px;
+}
+.black small{ 
+    display: block; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    color: orange;  
+    font-size: 17px; 
+    font-weight: bold;
+} 
+.black h3{ 
+    margin-bottom: 15px; 
+    font-size: 30px;
+} 
+.black p{ 
+    margin-top: 15px; 
+    font-size: 20px;
+    text-align: justify;
+} 
+.black button{ 
+    background-color:  #0012ff;  
+    padding: 10px 140px;
+    color: white; 
+    border: none; 
+    border-radius: 10px;  
+    
+} 
+.lilac{ 
+    background-color: white; 
+    box-shadow: 2px 2px 22px rgba(0, 0, 0,0.208); 
+    padding: 10px; 
+    width: 340px; 
+    display: inline-block; 
+    border-radius: 10px; 
+    margin-right: 40px; 
+
+} 
+.lilac img{ 
+    margin-left: 30px;
+}
+.lilac small{ 
+    display: block; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    color: orange;  
+    font-size: 17px; 
+    font-weight: bold;
+} 
+.lilac h3{ 
+    margin-bottom: 15px; 
+    font-size: 30px;
+} 
+.lilac p{ 
+    margin-top: 15px; 
+    font-size: 20px;
+    text-align: justify;
+} 
+.lilac button{ 
+    background-color:  #0012ff;  
+    padding: 10px 140px;
+    color: white; 
+    border: none; 
+    border-radius: 10px;  
+    
+} 
+
